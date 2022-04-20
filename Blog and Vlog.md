@@ -7,4 +7,4 @@ sidebar_sort_order: 5
 ---
 ### Uploader in Bilibili
 
-**sharing academic literacture reading experience**, https://b23.tv/21xxnpm
+[**sharing academic literacture reading experience**](https://b23.tv/21xxnpm)
