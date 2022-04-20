@@ -5,11 +5,11 @@ permalink: /teaching/
 sidebar_link: true
 sidebar_sort_order: 3
 ---
-### Lecturer
+### Lecturer(forthcoming)
 Spring 2023 — MARK-E0046 Digitalisation of markets and consumption, Aalto University  
 [Syllabus]({{ sit.url}}/assets/eco2199_syllabus.pdf)  
 
-### Course Developer
+### Course Teacher
 Spring 2022 — 23E47000 Digital Marketing, Aalto University  
 (joint with [Dr.Antti Abel Vassinen](https://www.anttiabel.com/))  
 
