@@ -6,14 +6,14 @@ sidebar_link: true
 sidebar_sort_order: 3
 ---
 ### Lecturer
-Fall 2021 — ECO2199 Economics of COVID-19, University of Ottawa  
+Spring 2023 — MARK-E0046 Digitalisation of markets and consumption, Aalto University  
 [Syllabus]({{ sit.url}}/assets/eco2199_syllabus.pdf)  
 
 ### Course Developer
-Spring 2020 — ECE246 Health Economics, Royal Military College of Canada  
-(joint with [Fabien Forge](https://forgef.github.io/index.html))  
+Spring 2022 — 23E47000 Digital Marketing, Aalto University  
+(joint with [Dr.Antti Abel Vassinen](https://www.anttiabel.com/))  
 
-We created an introductory health economics course for undergraduate students that featured (among other topics) demand for healthcare, socio-economic disparities of health, health insurance, supply of healthcare, public health, and risky behaviours.
+We created an introductory digital marketing course for graduate students that featured (among other topics) demand for social media, gamification, E-commerce, digital brand marketing, digital analytics, and public & non-profit marketing.
 
 ### Teaching Assistant
-2016-2019 — Micro-econometrics, Introduction to Econometrics, Microeconomic Theory III, Introduction to Microeconomics, Analysis of Economic and Social Data
+2017-2019 — digital marketing, Introduction to Marketing, Brand Management
