@@ -6,7 +6,7 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 ### Job Market Paper  
-[**Virus anthropomorphism intensifies consumers’ stigma toward the patients**] (with Jingya Huang)
+**Virus anthropomorphism intensifies consumers’ stigma toward the patients** (with Jingya Huang)
 
 
 ### Publications
@@ -14,11 +14,11 @@ sidebar_sort_order: 2
 
 
 ### Working Paper
-[**A meta-analysis of when and how co-creation practice works on consumer adherence**] (with Petra Paasonen, Sanna-Katriina Asikainen, Tomas Falk)  
+**A meta-analysis of when and how co-creation practice works on consumer adherence** (with Petra Paasonen, Sanna-Katriina Asikainen, Tomas Falk)  
 
-[**Think Like a Robot: How the Interaction with Humanoid Service Robots Affects Consumer Decision Strategy**] (with Jingya Huang)  
+**Think Like a Robot: How the Interaction with Humanoid Service Robots Affects Consumer Decision Strategy** (with Jingya Huang)  
 
-[**How drug availability affects consumer adherence: a difference-in-difference approach**] (with Haizhong Wang, Jian Ni, Chuhan Liu) 
+**How drug availability affects consumer adherence: a difference-in-difference approach** (with Haizhong Wang, Jian Ni, Chuhan Liu) 
 
 
 
