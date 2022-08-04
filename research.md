@@ -8,7 +8,7 @@ sidebar_sort_order: 2
 ### (Potential) Job Market Paper  
 **Virus anthropomorphism intensifies consumers’ stigma toward the patients** (with Jingya Huang, Lei Su)
 
-**How drug availability affects consumer adherence: a difference-in-difference approach** (with Chuhan Liu, Jian Ni, Haizhong Wang) 
+**How drug availability affects consumer adherence: a market concentration perspective** (with Chuhan Liu, Jian Ni, Haizhong Wang) 
 
 ### Publications
 [**Does dignity matter? A study of donors’ behavior**](https://doi.org/10.1007/s12144-022-02768-x) (with Aftab Rahim, Haizhong Wang, and Sher Khan)  
