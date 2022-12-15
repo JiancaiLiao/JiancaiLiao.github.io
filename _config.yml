@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Jiancai Liao
 tagline:          'Jiancai Liao'
-description:      'Marketing Ph.D. candidate at Aalto University. I research consumer welling with a cross-disciplinary approach.'
+description:      'Marketing doctoral researcher at Aalto University. I research healthcare marketing topics with a cross-disciplinary approach.'
 url:              https://jiancailiao.github.io/
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
