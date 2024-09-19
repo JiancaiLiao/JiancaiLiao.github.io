@@ -6,7 +6,7 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 ### (Potential) Job Market Paper  
-[**The Paradox of Abundance: How Enhanced Drug Availability Affects Consumer Adherence**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772449)(with Chuhan Liu, Jian Ni, Haizhong Wang)  
+[**The Paradox of Abundance: How Enhanced Drug Availability Affects Consumer Adherence**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772449) (with Chuhan Liu, Jian Ni, Haizhong Wang)  
 
 **Evolving Healthcare Practices: How Patient Involvement in Service Delivery Impacts on Treatment Adherence** (with Jan F. Klein, Petra Paasonen, Sanna-Katriina Asikainen, Tomas Falk)
 
