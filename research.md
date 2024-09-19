@@ -11,9 +11,9 @@ sidebar_sort_order: 2
 **Evolving Healthcare Practices: How Patient Involvement in Service Delivery Impacts on Treatment Adherence** (with Jan F. Klein, Petra Paasonen, Sanna-Katriina Asikainen, Tomas Falk)
 
 ### Doctoral Thesis's Work
-**The Effect of Disease Anthropomorphism on Consumer Adherence: A Coping Appraisal Lens** (Solo author) 
+**The Effect of Disease Anthropomorphism on Consumer Adherence** (Solo author) 
 
-**How Dialectical Thinking Improves Consumer Adherence through Enhanced Information Diagnosticity** (with Amy Song, Manqiong Shen)  
+**How Dialectical Thinking Improves Consumer Adherence** (with Amy Song, Manqiong Shen)  
 
 [**Analysis of consumer medication adherence: Based on two-stage theoretical model**](10.3724/SP.J.1042.2024.00859) (with Manqiong Shen, Haizhong Wang)  
 
