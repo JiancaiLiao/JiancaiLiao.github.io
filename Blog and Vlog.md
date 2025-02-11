@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog and Vlog
+title: Outside Research
 permalink: /blog-vlog/
 sidebar_link: true
 sidebar_sort_order: 5
