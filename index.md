@@ -4,8 +4,10 @@ title: About
 sidebar_link: true
 sidebar_sort_order: 1
 ---
-I’m a doctoral researcher in the Marketing department at Aalto University. My research interests are mainly concentrated on healthcare marketing.
+I’m a doctoral researcher from the Department of Marketing at Aalto University. 
 
-I explore healthcare marketing topics (consumer non-adherence, stigmatization of patients, etc) with mixed methods, such as experiments, modeling, meta-analysis, text mining, etc.
+My research revolves around the impact of digital transformation on individual well-being. 
 
-I like reading, folksongs, going to the gym, and cooking food in Cantonese/Sichuan style.
+Motivated by the call for “Better Business, Better Society”, I embarked on my doctoral journey with a firm belief that marketing has the potential to improve lives, sustain livelihoods, and strengthen societies. 
+
+I like hiking, running, folksongs, and cooking food in Cantonese/Sichuan style.
