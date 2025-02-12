@@ -6,6 +6,10 @@ sidebar_link: true
 sidebar_sort_order: 3
 ---
 
+### My detailed teaching portfolio
+
+You can check my teaching portfolio here. It keeps updating. [Syllabus]({{ sit.url}}/assets/DMC_Syllabus 2021.pdf)  
+
 ### Main supervisor 
 Spring 2025 — Bachelor's Thesis and Seminar, Aalto University  
 
