@@ -1,4 +1,5 @@
 ---
+
 layout: page
 title: Outside Research
 permalink: /blog-vlog/
@@ -8,3 +9,7 @@ sidebar_sort_order: 5
 ### Uploader in Bilibili
 
 [**sharing academic literacture reading experience**](https://space.bilibili.com/32169296)
+
+### Hiking
+
+![hiking in Hong Kong]({{ site.url }}/assets/your-photo.jpg)
