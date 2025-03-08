@@ -33,8 +33,33 @@ sidebar_sort_order: 5
 ![Hiking in Hong Kong]({{ site.url }}/assets/IMG20231117172536.jpg)
 
 
+### Gardening
+
+![Gardening]({{ site.url }}/assets/IMG_1236.JPG)
+
+
+### Travel
+
+![Travel]({{ site.url }}/assets/IMG_1718.JPG)
+
+
+### Reading
+
+![Reading]({{ site.url }}/assets/IMG_2114.PNG)
+
+
 ### Food
 
-![Food]({{ site.url }}/assets/IMG20231125190810.jpg)
+![Food]({{ site.url }}/assets/IMG_0067.jpg)
 
-![Food]({{ site.url }}/assets/IMG20231210202027.jpg)
+
+### Museum
+
+![Museum]({{ site.url }}/assets/IMG_2463.JPG)
+
+
+### Zoo
+
+![Zoo]({{ site.url }}/assets/IMG_0361.jpg)
+
+
