@@ -32,4 +32,4 @@ sidebar_sort_order: 2
 
 **Hospital Platform Digitalization and Offline Patient Outcomes** (Solo author)  
 
-
+**Algorithmic Fairness and Consumer Trust in Service Setting: A Meta-analysis** (Solo author)  
