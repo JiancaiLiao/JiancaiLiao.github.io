@@ -28,7 +28,8 @@ sidebar_sort_order: 2
 
 
 ### Working Papers
+**Heterogeneity or Homogeneity? The Effect of Artificial Intelligence Integration Structures on Consumers’ Service Valuation** (Solo author) 
 
 **Hospital Platform Digitalization and Offline Patient Outcomes** (Solo author)  
 
-**Large Language Models Diversity and Patients’ Technology Adoption** (Solo author) 
+
