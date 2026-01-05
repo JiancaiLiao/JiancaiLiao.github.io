@@ -6,8 +6,6 @@ sidebar_link: true
 sidebar_sort_order: 3
 ---
 
-# Teaching
-
 ## Teaching Philosophy
 
 My teaching philosophy centres on creating value beyond knowledge transfer. I design courses where students:
