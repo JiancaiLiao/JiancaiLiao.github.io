@@ -4,7 +4,6 @@ title: About
 sidebar_link: true
 sidebar_sort_order: 1
 ---
-# About
 
 I am an Assistant Professor in Marketing at [Birmingham Business School](https://www.birmingham.ac.uk/schools/business), University of Birmingham. I am currently a Visiting Scholar at [SCANCOR](https://scancor.stanford.edu/), Stanford University (December 2025 – March 2026).
 
