@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title: CV
 permalink: /cv/
@@ -9,7 +8,7 @@ sidebar_sort_order: 4
 
 # Curriculum Vitae
 
-[**Download CV (PDF)**](/assets/CV.pdf){:target="_blank"}
+[**Download CV (PDF)**](/assets/CV.pdf)
 
 ---
 
@@ -28,4 +27,4 @@ sidebar_sort_order: 4
 
 ---
 
-*For full details, please [download the PDF](/assets/CV.pdf){:target="_blank"}.*
+*For full details, please [download the PDF](/assets/CV.pdf)*
