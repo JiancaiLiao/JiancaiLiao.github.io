@@ -46,6 +46,6 @@ Supervising 18 students applying marketing theory to real business challenges.
 - MSc Dissertations: 6 students (2025-26)
 - Company Projects: 18 students (2025-26)
 - Bachelor Theses: 6 students (Aalto, 2025)
-
+```
 
 
