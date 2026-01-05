@@ -6,27 +6,46 @@ sidebar_link: true
 sidebar_sort_order: 3
 ---
 
-### My detailed teaching portfolio
+# Teaching
 
-You can check my teaching portfolio here. It keeps updating. [Teaching Portfolio]({{ sit.url}}/assets/Teaching Portfolio.pdf)  
+## Teaching Philosophy
 
-### Main supervisor 
-Spring 2025 — Bachelor's Thesis and Seminar, Aalto University  
+My teaching philosophy centres on creating value beyond knowledge transfer. I design courses where students:
 
-Supervised 6 bechelor students: Guided students through the research process, including topic selection, literature review, theoretical reasoning, case study analysis, and thesis writing.
+- **Build social connections** through collaborative discussions and peer networks
+- **Develop critical thinking** through structured, memorable lectures
+- **Gain hands-on experience** applying marketing concepts to real problems they encounter daily
+- **Discover passion** for using marketing to solve societal challenges
 
-### Responsible teacher
-Spring 2024 — 23E48000 Consumer Psychology, Aalto University  
+I believe students should feel that missing class means missing valuable perspectives they cannot find elsewhere.
 
-### Visiting Lecturer
-Spring 2023 — MARK-E0046 Digitalisation of markets and consumption, Aalto University  
-[Syllabus]({{ sit.url}}/assets/DMC_Syllabus 2021.pdf)  
+## Current Courses (University of Birmingham)
 
-### Teaching Assistant
-Spring 2022 — 23E47000 Digital Marketing, Aalto University  
-(joint with [Dr.Antti Abel Vassinen](https://www.anttiabel.com/))  
+### Marketing and New Technology (Undergraduate)
+*Module Leader, 2025-26*
 
-This is an introductory digital marketing course for graduate students that featured (among other topics) demand for social media, gamification, E-commerce, digital brand marketing, digital analytics, and public & non-profit marketing.
+This module explores how emerging technologies—AI, digital platforms, data analytics—are transforming marketing practice. Students engage with:
+- Real-world case studies connected to their daily experiences
+- Hands-on projects (e.g., creating social media marketing campaigns)
+- Critical discussions on AI ethics and algorithmic bias
 
-### Teaching Assistant
-2017-2019 — digital marketing, Introduction to Marketing, Brand Management, Sun Yat-sen University
+### Individual Company Project (Postgraduate)
+*Module Leader, 2025-26*
+
+Supervising 18 students applying marketing theory to real business challenges.
+
+## Previous Teaching
+
+### Aalto University (2022-2025)
+- **Consumer Psychology** (MSc) – Sole Responsible Teacher, 2024
+- **Digitalisation of Markets and Consumption** (MSc) – Guest Lecturer, 2023
+- **Bachelor Thesis Supervision** – 6 students, 2025
+
+## Student Supervision
+
+- MSc Dissertations: 6 students (2025-26)
+- Company Projects: 18 students (2025-26)
+- Bachelor Theses: 6 students (Aalto, 2025)
+
+
+
