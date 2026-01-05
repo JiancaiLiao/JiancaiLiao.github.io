@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Jiancai Liao
 tagline:          'Dr Jiancai (Johnson) Liao'
-description:      'Assistant Professor in Marketing at University of Birmingham | Visiting Scholar at Stanford University (SCANCOR). "Today is the first day of the rest of your life".'
+description:      'Assistant Professor in Marketing at University of Birmingham | Visiting Scholar at Stanford University. "Today is the first day of the rest of your life".'
 url:              https://jiancailiao.github.io/
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
