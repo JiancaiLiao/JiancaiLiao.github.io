@@ -10,8 +10,8 @@ sidebar_sort_order: 2
 
 My research investigates how digital transformation reshapes service experiences and consumer well-being. I pursue three interconnected streams:
 
-- **Healthcare Services**: Patient adherence, value co-creation, pharmaceutical policy, and health management interventions
-- **AI in Services**: AI disclosure structures, human-AI interaction, algorithmic transparency, and consumer trust
+- **Healthcare Services**: Health adherence, healthcare policy, and health management interventions
+- **AI in Services**: Human-AI interaction, AI disclosure, algorithmic transparency, and consumer trust
 - **Platform-based Services**: Digital health platforms, telemedicine, physician multihoming, and platform governance
 
 I employ diverse methodologies including laboratory and field experiments, econometric modeling (DID, causal ML), meta-analysis, and text mining.
@@ -32,16 +32,16 @@ I employ diverse methodologies including laboratory and field experiments, econo
 
 #### AI in Services
 
-4. Lv, L., Liang, Y., Chen, S., Liu, G. G., & **Liao, J.** (2025). Good deeds deserve good outcomes: Leveraging generative artificial intelligence to reduce tourists' avoidance of ethical brands embracing stigmatized groups. *Annals of Tourism Research*. https://doi.org/10.1016/j.annals.2024.103889
-5. Lv, L., Zhang, Y., **Liao, J.**, Chen, J., & Dai, G. (2026). How personalized recommendations influence customers' sustainable hotels booking: The role of environmental identity label perception. *International Journal of Hospitality Management*, 137, 104701. https://doi.org/10.1016/j.ijhm.2026.104701
-6. Huang, J., & **Liao, J.**<sup>†</sup> (2026). The more, the worse? Exploring the negative influence of robot replicates on human-robot rapport in the tourism and hospitality sector. *Journal of Hospitality Marketing & Management*. https://doi.org/10.1080/19368623.2026.2613799
-7. **Liao, J.**, & Huang, J. (2024). Think like a robot: How interactions with humanoid service robots affect consumers' decision strategies. *Journal of Retailing and Consumer Services*. https://doi.org/10.1016/j.jretconser.2023.103575 
+4. **Liao, J.**, & Huang, J. (2024). Think like a robot: How interactions with humanoid service robots affect consumers' decision strategies. *Journal of Retailing and Consumer Services*. https://doi.org/10.1016/j.jretconser.2023.103575 
+5. Huang, J., & **Liao, J.**<sup>†</sup> (2026). The more, the worse? Exploring the negative influence of robot replicates on human-robot rapport in the tourism and hospitality sector. *Journal of Hospitality Marketing & Management*. https://doi.org/10.1080/19368623.2026.2613799
+6. Lv, L., Liang, Y., Chen, S., Liu, G. G., & **Liao, J.** (2025). Good deeds deserve good outcomes: Leveraging generative artificial intelligence to reduce tourists' avoidance of ethical brands embracing stigmatized groups. *Annals of Tourism Research*. https://doi.org/10.1016/j.annals.2024.103889
+7. Lv, L., Zhang, Y., **Liao, J.**, Chen, J., & Dai, G. (2026). How personalized recommendations influence customers' sustainable hotels booking: The role of environmental identity label perception. *International Journal of Hospitality Management*, 137, 104701. https://doi.org/10.1016/j.ijhm.2026.104701
+
 
 #### Platform-based Services
 
 8. Tao, J., Liu, G. G., Yu, J., & **Liao, J.** (2026). From "Sacred Spaces" to "Selfie Spots": How social media sharing motivations transform tourist-destination relationships. *Journal of Sustainable Tourism*. https://doi.org/10.1080/09669582.2026.2637461
 
-*Working papers in progress — see "Papers Under Revision and Review" below.*
 
 #### Consumer Behavior & Well-being
 
@@ -55,9 +55,11 @@ I employ diverse methodologies including laboratory and field experiments, econo
 
 <sup>† denotes co-first author</sup>
 
+- **Liao, J.**, Liu, C., Ni, J., & Wang, H. The paradox of access: How increased generic drug availability affects patient adherence. *Journal of Marketing Research*.
+
 - Shen, M., **Liao, J.**<sup>†</sup>, & Song, Y. The power of tolerance for contradiction: Improving consumer health adherence through perceived information diagnosticity. *European Journal of Marketing*. 
 
-- **Liao, J.**, Liang, Y., Lin, Y., & Lv, L. Overcoming uniqueness neglect: How AI disclosure structure shapes service evaluation. *Journal of Management Information Systems*. 
+- **Liao, J.**, Liang, Y., Lin, Y., & Lv, L. Overcoming uniqueness neglect: How AI disclosure structure shapes service evaluation. *Journal of Service Research*. 
 
 - Xie, H., & **Liao, J.** How hierarchical team appointments reshape patient flow and healthcare resource utilization. *Production and Operations Management*.
 
@@ -72,8 +74,6 @@ I employ diverse methodologies including laboratory and field experiments, econo
 - **Liao, J.**, Zhang, L., & Chen, H. Family identity salience increases consumers' self-care behavior. Target: *Journal of Consumer Psychology*.
 
 - **Liao, J.**, Klein, J. F., Falk, T., Sundqvist, S., & Paasonen, P. Advice adherence in professional services: A meta-analysis. Target: *Journal of Service Research*. 
-
-- **Liao, J.**, Liu, C., Ni, J., & Wang, H. The paradox of access: How increased generic drug availability affects patient adherence. Target: *Journal of Marketing Research*. 
 
 - **Liao, J.**, & Xie, H. How the drug shadow market impacts patient welfare: Evidence from a policy shock of 4+7 Centralized Procurement in China. Target: *Management Science*. 
 
