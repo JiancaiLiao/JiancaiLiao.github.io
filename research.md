@@ -42,6 +42,7 @@ I employ diverse methodologies including laboratory and field experiments, econo
 
 8. Tao, J., Liu, G. G., Yu, J., & **Liao, J.** (2026). From "Sacred Spaces" to "Selfie Spots": How social media sharing motivations transform tourist-destination relationships. *Journal of Sustainable Tourism*. https://doi.org/10.1080/09669582.2026.2637461
 
+*Working papers in progress — see "Papers Under Revision and Review" and "Working Papers" below.*
 
 #### Consumer Behavior & Well-being
 
