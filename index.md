@@ -21,7 +21,7 @@ I employ diverse methodologies including laboratory and field experiments, econo
 
 ## Teaching
 
-At Birmingham, I teach *Marketing and New Technology* (Undergraduate) and *Individual Consulting Projects* (Postgraduate). My teaching philosophy centres on creating value beyond knowledge transfer—helping students build social connections, develop critical thinking, and gain hands-on experience applying marketing to real-world problems.
+At Birmingham, I teach *Marketing and New Technology* (Undergraduate) and *Individual Consulting Project* (Postgraduate). My teaching philosophy centres on creating value beyond knowledge transfer—helping students build social connections, develop critical thinking, and gain hands-on experience applying marketing to real-world problems.
 
 ## Contact
 
