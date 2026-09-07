@@ -13,11 +13,11 @@ I received my PhD in Marketing from Aalto University School of Business (Finland
 
 My research examines consumer and societal well-being at the intersection of technology, healthcare, and services. I pursue three interconnected streams:
 
-- **Technology in Healthcare Services**: Digital health platforms, AI-mediated service encounters, policy interventions, and healthcare operations
-- **Healthcare Delivery & Well-being**: Patient adherence, elderly psychology, self-care, and health-related stigma
-- **Service Design & Consumer Behavior**: Professional service encounters, brand–consumer relationships, and design cues in consumer experience
+- **Technology and AI in Service Encounters**: AI-mediated service interactions, service robots, algorithmic recommendation, AI disclosure, and digital health platforms
+- **Healthcare Delivery, Adherence, and Well-being**: Patient adherence, health engagement, elderly psychology, self-care, and health-related stigma
+- **Service Design and Societal Well-being**: Brand–consumer relationships, prosocial and donation behavior, sustainable consumption, and design cues in consumer experience
 
-I employ diverse methodologies including laboratory and field experiments, econometric modeling (DID, causal ML), meta-analysis, and text mining.
+I employ diverse methodologies including laboratory and field experiments, econometric modeling (DiD, causal ML), meta-analysis, and text mining.
 
 ## Teaching
 
@@ -27,7 +27,7 @@ At Birmingham, I teach *Marketing and New Technology* (Undergraduate) and *Indiv
 
 - **Email**: [j.liao@bham.ac.uk](mailto:j.liao@bham.ac.uk)
 - **Office**: Birmingham Business School, University House, Edgbaston, Birmingham B15 2TT
-- **Google Scholar**: [Profile Link](https://scholar.google.com/citations?user=Zg4eQLUAAAAJ&hl=en)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=Zg4eQLUAAAAJ&hl=en)
 
 ---
 
