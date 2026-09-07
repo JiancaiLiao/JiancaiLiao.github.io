@@ -11,7 +11,7 @@ I received my PhD in Marketing from Aalto University School of Business (Finland
 
 ## Research Interests
 
-My research examines consumer well-being at the intersection of technology, healthcare, and services. I pursue three interconnected streams:
+My research examines consumer and societal well-being at the intersection of technology, healthcare, and services. I pursue three interconnected streams:
 
 - **Technology in Healthcare Services**: Digital health platforms, AI-mediated service encounters, policy interventions, and healthcare operations
 - **Healthcare Delivery & Well-being**: Patient adherence, elderly psychology, self-care, and health-related stigma
