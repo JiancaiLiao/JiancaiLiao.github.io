@@ -8,7 +8,7 @@ sidebar_sort_order: 2
 
 ## Research Interests
 
-My research examines **consumer and societal well-being at the intersection of technology, healthcare, and services**. I pursue three interconnected streams:
+My research examines **how technology, healthcare, and service design shape consumer and societal well-being**. I pursue three interconnected streams:
 
 - **Technology and AI in Service Encounters** — AI-mediated service interactions, service robots, algorithmic recommendation, AI disclosure, and digital health platforms
 - **Healthcare Delivery, Adherence, and Well-being** — patient adherence, health engagement, elderly psychology, self-care, and health-related stigma
