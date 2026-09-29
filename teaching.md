@@ -21,7 +21,7 @@ I believe students should feel that missing class means missing valuable perspec
 
 ### Marketing and New Technology (Undergraduate)
 
-*Module Leader, 2026–27*
+*Module Lecturer, 2026–27*
 
 This module explores how emerging technologies—AI, digital platforms, data analytics—are transforming marketing practice. Students engage with:
 
@@ -45,10 +45,9 @@ This module guides MSc students through an independent consulting-style research
 
 - **Consumer Psychology** (MSc) — Sole Responsible Teacher, 2024
 - **Digitalisation of Markets and Consumption** (MSc) — Guest Lecturer, 2023
-- **Bachelor Thesis Supervision** — 6 students, 2025
+- **Digital Marketing** — Teaching Assistant, 2022
 
 ## Student Supervision
 
-- MSc Dissertations: 6 students (2025–26)
-- Company Projects: 18 students (2025–26)
+- MSc Dissertations: 6 students (UoB, 2025–26)
 - Bachelor Theses: 6 students (Aalto, 2025)
