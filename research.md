@@ -76,7 +76,7 @@ My research examines **consumer and societal well-being at the intersection of t
 | 2021–25 | HSE Support Foundation | €40,000+ | Doctoral Research on Healthcare Marketing |
 | 2024 | Paulo Foundation | €8,000 | Research Visit to Virginia Tech |
 | 2022 & 2024 | Matti Lehti Fund | €6,000 | AI in Consumer Behavior |
-| 2022 & 2023 | Foundation for Economic Education | €3,600 | Dialectical Thinking Research |
+| 2022 & 2023 | Foundation for Economic Education | €3,600 | Human-AI Interaction and Consumer Well-being |
 
 **Total external funding (as PI): €154,600+**
 
