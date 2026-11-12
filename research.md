@@ -51,8 +51,8 @@ My research examines **how technology, healthcare, and service design shape cons
 - **Liao, J.**, Liu, C., Ni, J., & Wang, H. The paradox of access: How increased generic drug availability affects patient adherence. *Journal of Marketing Research*.
 - Shen, M., **Liao, J.**†, & Song, Y. The power of tolerance for contradiction: Improving consumer health adherence through perceived information diagnosticity. *European Journal of Marketing*.
 - **Liao, J.**, Liang, Y., Lin, Y., & Lv, L. Overcoming uniqueness neglect: How AI disclosure structure shapes service evaluation. *Journal of Service Research*.
-- Xie, H., & **Liao, J.** How hierarchical team appointments reshape patient flow and healthcare resource utilization. *Production and Operations Management*.
-- Zhou, S., Kang, Q., & **Liao, J.** Taking selfies increases preference for self-improvement products: The role of self-focused attention. *Psychology & Marketing*.
+- Xie, H., & **Liao, J.** Does Hierarchical Team Appointment Reshape Patient Choice and Adherence? A Mixed-Methods Study. *Production and Operations Management*.
+- **Liao, J.** & Huang, J. The Chosen Ones: Ethical Implications of Disease Anthropomorphism in Health Communication. *Journal of Business Ethics*.
 
 ---
 
@@ -62,8 +62,8 @@ My research examines **how technology, healthcare, and service design shape cons
 
 - **Liao, J.**, Zhang, L., & Chen, H. Family role salience increases consumers' self-care behavior. Target: *Journal of Consumer Psychology*.
 - **Liao, J.**, Klein, J. F., Falk, T., Sundqvist, S., & Paasonen, P. Advice adherence in professional services: A meta-analysis. Target: *Journal of Service Research*.
-- **Liao, J.**, & Xie, H. When do pay-after-use interventions alleviate poverty traps? Evidence from China's treat-first-pay-later policy. Target: *Management Science*.
-- Huang, S., **Liao, J.**†, & Zhang, Y. Physician multihoming and healthcare resource allocation: An analytical model with causal evidence. Target: *Information Systems Research*.
+- **Liao, J.**, Cai, S., & McCabe, S. Travelling with long-term treatment: how institutions make the unusual environment. Target: *Annals of Tourism Research*.
+- **Liao, J.**† Whose Standard Governs: Endorsement, Recognition and the Authority Regimes of Adherence. Target: *Journal of the Academy of Marketing Science*.
 
 ---
 
