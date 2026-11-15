@@ -6,7 +6,7 @@ permalink: /research/travel-routines/
 
 *A study of how members of online travel communities manage ongoing personal routines away from home*
 
-**Ethics review reference:** ERN_6967-Oct2026  
+**Ethics review reference:** ERN_6967-Nov2026  
 **Version:** 1.1, 4 November 2026
 
 > **In brief**
@@ -73,7 +73,7 @@ The University processes this information because it is necessary for research c
 
 ## Ethical review
 
-The study has been reviewed by the University of Birmingham’s Humanities and Social Sciences Ethics Committee (reference ERN_6967-Oct2026).
+The study has been reviewed by the University of Birmingham’s Humanities and Social Sciences Ethics Committee (reference ERN_6967-Nov2026).
 
 ## Results
 

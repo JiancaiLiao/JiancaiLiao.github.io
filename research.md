@@ -91,3 +91,9 @@ My research examines **how technology, healthcare, and service design shape cons
 - Association for Consumer Research (ACR), Paris (2024); Denver (2022)
 - Asia Pacific Marketing Academy, Hong Kong (2024); Guangzhou (2023)
 - China India Insights Conference, Stanford University (2023)
+
+---
+
+## Information for Research Participants
+
+- [Carrying everyday routines on the road](/research/travel-routines/): information for members of online travel communities whose public posts may be included in this study, including how to ask for your posts to be excluded.
